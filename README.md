@@ -1,2 +1,9 @@
-# Customer Profiling with Python
-is a web scraping and data analytic project to know more about a customer on Facebook.
+# Customer Profiling with Facebook using Python
+
+## Tools
+- Python
+  - Selenium
+  - Pandas
+- Excel
+  - Pivot Table & Pivot Chart
+- Word Cloud
